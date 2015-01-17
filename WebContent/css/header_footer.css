@@ -1,0 +1,150 @@
+.options
+{
+	margin:40px 30px;
+	overflow:hidden;
+	position:relative;
+	padding: 0px 0px 30px 0px;
+	border-bottom: 2px solid black;
+}
+
+.buttons
+{
+	float:left;
+	width:135px;
+	height: auto;
+	background-color:#FF0066;
+	margin:10px;
+	padding:15px;
+	color:white;
+	font-family: 'Almendra', serif;
+	font-size:24px;
+	text-align:center;
+	vertical-align:middle;
+}
+
+.buttons a
+{
+	text-decoration:none;
+	color:white;
+}
+
+.buttons:hover
+{
+	background-color:#66FF33;
+}
+
+.topic
+{
+	margin:20px 20px 0px 20px;
+	padding:20px 20px 0px 0px;
+	font-size:60px;
+	font-weight:bold;
+	color:black;
+}
+
+.nav-bar
+{
+	margin:0px 20px 20px 20px;		
+	border-bottom:3px solid black;	
+	height:auto;
+	overflow:hidden;
+	text-align:center;
+}
+
+.nav-bar ul
+{
+	width:700px;
+	margin:0px auto;
+	padding:10px;
+	list-style:none;
+	overflow:hidden;
+	text-align:center;
+	font-size:22px;
+	font-weight:bold;
+}
+
+.nav-bar li
+{
+	float:left;
+	width:160px;
+}
+
+.nav-bar a, .select
+{
+	color:white;
+	text-decoration:none;
+	padding:20px 20px;
+	background-color:#FF0066;
+	
+}
+
+
+.content
+{
+}
+
+<!--#footer
+{
+	width:800px;
+	align:right;
+	position:relative;
+	margin:0px 0px 0px auto;
+	overflow:hidden;
+	
+}-->
+
+#footer
+{
+	width:800px;
+	align:right;
+	position:relative;
+	margin:0px 0px 0px auto;
+	overflow:hidden;
+	
+	font-family: 'Alegreya Sans', sans-serif;
+	text-align:center;
+	vertical-align:center;
+	background-color:white;
+}
+
+
+.footer-content
+{
+	margin:50px 30px 0px 30px;
+	padding: 20px 20px;
+	border-top: 2px solid black;
+}
+
+.gap
+{
+	height:300px;
+}
+
+.rest
+{
+	background-color:white;
+	padding:0px 0px 15px;
+}
+
+.text
+{
+	margin:10px;
+	padding:15px 20px 0px 20px;
+	text-align:center;
+	font-size:16px;
+}
+
+.colours
+{
+	margin:0px 20px 0px;
+	overflow:hidden;
+}
+
+.box
+{
+	height:10px;
+	width:10px;
+	float:left;
+}
+
+-->

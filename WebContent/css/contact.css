@@ -1,0 +1,46 @@
+#email
+{
+	background-color:#25D9BB;
+	overflow:hidden;
+	font-weight:bold;	
+	margin:20px 0px 0px 0px;
+	padding:10px;
+	align:center;
+}
+
+.form-table
+{
+	align:center;
+	padding:10px;
+	margin:5px 120px 0px 120px;
+	overflow:hidden;
+	style:none;
+}
+
+.form-table td
+{
+	margin:10px;
+	padding:5px;
+}
+
+.content 
+{
+	margin: 0px 70px;
+	vertical-align:middle;
+}
+
+.content td
+{
+	padding: 5px 5px;
+}
+
+.content a
+{
+	text-decoration:none;
+	color:black;
+}
+
+.content li
+{
+	list-style:none;
+}
